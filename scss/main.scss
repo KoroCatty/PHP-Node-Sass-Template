@@ -25,6 +25,11 @@
 // variables imports
 @use './abstracts/variables' as *;
 
+
+// layout imports
+@use './layout/footer';
+@use './layout/header';
+
 body {
   background-color: green;
 
