@@ -1,1 +1,1 @@
-console.log("This is test from main.js and watching ");
+console.log("This is test from main.js and watching "),console.log("😅");

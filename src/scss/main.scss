@@ -31,9 +31,13 @@
 @use './layout/header';
 
 body {
-  background-color: green;
+  background-color: rgb(194, 48, 118);
+  color: skyblue;
 
   @include mq('xl') {
     background-color: rgb(195, 206, 198);
   }
+
+  
+
 }
